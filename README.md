@@ -4,4 +4,4 @@
 
 ### Languages
 
-<a href="https://img.shields.io/badge/-Python-yellow?logo=python&style=for-the-badge" /<>/a>
+<IMG src="https://img.shields.io/badge/-Python-yellow?logo=python&style=for-the-badge" />
