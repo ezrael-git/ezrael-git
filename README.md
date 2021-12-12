@@ -14,4 +14,5 @@
 <hr>
 
 ### Stats
+[![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
 [![ezrael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=blue-green)](https://github.com/ezrael-git/ezrael-git)
