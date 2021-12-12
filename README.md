@@ -13,5 +13,5 @@
 [![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Terminal&color=lightgray&style=for-the-badge&logo=windowsterminal)](https://shields.io/) 
 <hr>
 
-
+### Stats
 [![ezrael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=blue-green)](https://github.com/ezrael-git/ezrael-git)
