@@ -15,7 +15,7 @@
 
 ### Online
 
-[![Generic badge](https://img.shields.io/static/v1?label=Discord&message=Azrael#1912&color=1DA1F2&style=for-the-badge&logo=discord)](https://twitter.com/codesdrax) 
+[![Generic badge](https://img.shields.io/static/v1?label=Discord&message=Azrael&#35&color=1DA1F2&style=for-the-badge&logo=discord)](https://twitter.com/codesdrax) 
 <hr>
 
 ### Stats
