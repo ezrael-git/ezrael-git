@@ -1,8 +1,5 @@
-### About Me
 
-
-
-### Languages & Tools
+### About
 
 [![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Python&color=important&style=for-the-badge&logo=python)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Ruby&color=red&style=for-the-badge&logo=ruby)](https://shields.io/) 
