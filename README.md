@@ -13,11 +13,7 @@
 [![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Terminal&color=lightgray&style=for-the-badge&logo=windowsterminal)](https://shields.io/) 
 <hr>
 
-### Online
-
-[![Generic badge](https://img.shields.io/static/v1?label=Discord&message=Azrael&#35&color=1DA1F2&style=for-the-badge&logo=discord)](https://twitter.com/codesdrax) 
-<hr>
-
 ### Stats
 [![Profile views](https://gpvc.arturio.dev/ezrael-git)](https://github.com/ezrael-git)
 [![ezrael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=blue-green)](https://github.com/ezrael-git/ezrael-git)
+
