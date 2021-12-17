@@ -13,6 +13,4 @@
 ### Stats
 [![Profile views](https://gpvc.arturio.dev/ezrael-git)](https://github.com/ezrael-git)
 
-[![ezrael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=blue-green)](https://github.com/ezrael-git/ezrael-git)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=tokyonight
